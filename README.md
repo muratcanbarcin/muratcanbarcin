@@ -3,13 +3,13 @@
 ## Computer Student Engineering | Dokuz Eylül University
 ---------------
 
-###### I am currently studying Computer Engineering at Dokuz Eylül University. I am working to specialize in programming and realize my dreams.
+#### I am currently studying Computer Engineering at Dokuz Eylül University. I am working to specialize in programming and realize my dreams.
 
-##### 🌍  I'm based in İzmir
-##### 🖥️  See my portfolio at https://www.linkedin.com/in/muratcanbarcin/
-##### ✉️  You can contact me at muratcanbarcin@gmail.com
-#####  🚀  I'm currently working on The Gravity Game in Java.
-##### 🤝  I'm open to collaborating on open source projects
+#### 🌍  I'm based in İzmir
+#### 🖥️  See my portfolio at https://www.linkedin.com/in/muratcanbarcin/
+#### ✉️  You can contact me at muratcanbarcin@gmail.com
+####  🚀  I'm currently working on The Gravity Game in Java.
+#### 🤝  I'm open to collaborating on open source projects
 
 ##  Skills
 
