@@ -8,7 +8,7 @@
 #### 🌍  I'm based in İzmir
 #### 🖥️  See my portfolio at https://www.linkedin.com/in/muratcanbarcin/
 #### ✉️  You can contact me at muratcanbarcin@gmail.com
-####  🚀  I'm currently working on The Chain Game in Java.
+####  🚀  I'm currently working on The Chain Game Project in Java.
 #### 🤝  I'm open to collaborating on open source projects
 
 ##  Skills
