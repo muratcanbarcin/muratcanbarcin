@@ -15,9 +15,4 @@
 
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python logo" width="30"/> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java logo" width="30"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png?20180210215736" alt="C# logo" width="45"/>
 
-## Top Repositories
-
-##### WILL BE UPDATED
-
-
 ###End
