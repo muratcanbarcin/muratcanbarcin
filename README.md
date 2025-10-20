@@ -62,7 +62,7 @@
 * **Teknolojiler:** `Java`, `Maven`, `React.js`, `RESTful API`, `JDBC`, `UI/UX Design`
 
 ### 2. Karma - Sustainable Accommodation Platform
-(Repo: `https://github.com/muratcanbarcin/Karma-Sustainable-Accommodation-Platform`)
+(Repo: `https://github.com/muratcanbarcin/Karma-Web-App`)
 * Kullanıcıların "Karma Token" kazanıp ücretsiz konaklama yapabildiği bir platform.
 * **Node.js** ve **React** kullanarak güvenli mesajlaşma, rezervasyon ve profil yönetimi özellikleri geliştirildi.
 * **Teknolojiler:** `Node.js`, `Express.js`, `React.js`, `MySQL`, `RESTful API`, `Scalable Architecture`
