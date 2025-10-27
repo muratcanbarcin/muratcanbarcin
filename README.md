@@ -1,31 +1,32 @@
 <h1 align="center">Murat Can Barçin</h1>
 <p align="center">
-  Dokuz Eylül Üniversitesi 4. Sınıf Bilgisayar Mühendisliği Öğrencisi.<br>
-  <strong>Backend Development (Java/Spring)</strong>, <strong>Veri Yönetimi</strong> ve <strong>Veri Bilimi</strong> alanlarında çözümler geliştirmeye odaklıyım.<br>
-  Aynı zamanda bu alanlarda teknik eğitmen olarak bilgi paylaşımında bulunuyorum.
+  4th Year Computer Engineering Student at Dokuz Eylül University.<br>
+  Focused on developing solutions in <strong>Backend Development (Java/Spring)</strong>, <strong>Data Management</strong>, and <strong>Data Science</strong>.<br>
+  I also share knowledge as a technical instructor in these fields.
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/muratcanbarcin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:muratcanbarcin@gmail.com">
-    <img src="https://img.shields.io/badge/E--posta-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
 ---
 
-## 🔭 Şu An Odaklandıklarım
-Şu anda aktif olarak iki ana proje üzerinde çalışıyorum:
-* **Savunma Sanayi C4ISR Projesi**: Komuta, kontrol, haberleşme ve bilgisayar sistemleri üzerine bir projede görev alıyorum.
-* **Enterprise AI Agent for SSO**: Kurumsal SSO (Single Sign-On) entegrasyonları için bir yapay zeka agent'ı geliştirilmesi üzerine çalışıyorum.
+## 🔭 What I'm Currently Focusing On
+I am currently actively working on three main projects:
+* **Defense Industry C4ISR Project**: I am involved in a project on command, control, communications, and computer systems.
+* **Enterprise AI Agent for SSO**: Working on the development of an artificial intelligence agent for corporate SSO (Single Sign-On) integrations.
+* **Smart Sleep Sense**: An IoT, Cloud, and AI project focused on tracking sleep quality and patterns.
 
 ---
 
-## 🛠️ Teknoloji Yetkinliklerim (Tech Stack)
+## 🛠️ My Tech Stack
 
 <p align="left">
-  <strong>Backend & Diller:</strong><br>
+  <strong>Backend & Languages:</strong><br>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -43,7 +44,7 @@
 </p>
 
 <p align="left">
-  <strong>Veritabanı & Diğer:</strong><br>
+  <strong>Database & Other:</strong><br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
@@ -53,48 +54,56 @@
 
 ---
 
-## 📂 Seçilmiş Projeler
+## 📊 My Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcanbarcin&layout=compact&theme=dark" />
+</p>
+
+---
+
+## 📂 Selected Projects
 
 ### 1. Enterprise Test Automation Dashboard
-(Repo: **Özel Proje / Ticari Ürün** - Satışta olduğu için public değildir.)
-* Otomatik backend testlerini (API, DB) düzenlemek için **Java/Maven** ve **React.js** ile geliştirilmiş bir dashboard.
-* Teknik bilgisi olmayan QA analistlerinin kod yazmadan testleri çalıştırmasını ve analiz etmesini sağlar.
-* **Teknolojiler:** `Java`, `Maven`, `React.js`, `RESTful API`, `JDBC`, `UI/UX Design`
+(Repo: **Private Project / Commercial Product** - Not public as it is for sale.)
+* A dashboard developed with **Java/Maven** and **React.js** to organize automated backend tests (API, DB).
+* Allows non-technical QA analysts to run and analyze tests without writing code.
+* **Technologies:** `Java`, `Maven`, `React.js`, `RESTful API`, `JDBC`, `UI/UX Design`
 
 ### 2. Karma - Sustainable Accommodation Platform
 (Repo: `https://github.com/muratcanbarcin/Karma-Web-App`)
-* Kullanıcıların "Karma Token" kazanıp ücretsiz konaklama yapabildiği bir platform.
-* **Node.js** ve **React** kullanarak güvenli mesajlaşma, rezervasyon ve profil yönetimi özellikleri geliştirildi.
-* **Teknolojiler:** `Node.js`, `Express.js`, `React.js`, `MySQL`, `RESTful API`, `Scalable Architecture`
+* A platform where users can earn "Karma Tokens" and get free accommodation.
+* Developed secure messaging, reservation, and profile management features using **Node.js** and **React**.
+* **Technologies:** `Node.js`, `Express.js`, `React.js`, `MySQL`, `RESTful API`, `Scalable Architecture`
 
 ### 3. Journey Planner for Paris Metro
 (Repo: `https://github.com/muratcanbarcin/Journey-Planner-for-Paris-Metro`)
-* Paris Metrosu için **Java** tabanlı rota optimizasyon aracı.
-* En kısa yolu bulmak için **Dijkstra** ve **BFS** algoritmaları kullanıldı.
-* **Teknolojiler:** `Java`, `Dijkstra's Algorithm`, `BFS`, `Directed Graphs`, `Priority Queue`
+* A **Java**-based route optimization tool for the Paris Metro.
+* Used **Dijkstra's** and **BFS** algorithms to find the shortest path.
+* **Technologies:** `Java`, `Dijkstra's Algorithm`, `BFS`, `Directed Graphs`, `Priority Queue`
 
 ### 4. Supermarket Management System
 (Repo: `https://github.com/muratcanbarcin/Supermarket-Management-System`)
-* **Java** ile geliştirilmiş, **Hash Tabloları** kullanarak müşteri ve satın alma verilerini yöneten sistem.
-* **Teknolojiler:** `Java`, `Data Structures (Hash Tables)`, `File Handling`
+* A system developed with **Java** that manages customer and purchase data using **Hash Tables**.
+* **Technologies:** `Java`, `Data Structures (Hash Tables)`, `File Handling`
 
 ---
 
-## 💼 Profesyonel Deneyim
+## 💼 Professional Experience
 
-### Aktif Rol
-* **Software & Data Science Instructor** | *techcareer.net* (Tem 2025 - Günümüz)
-    * Backend, SQL ve Veri Bilimi alanlarında uygulamalı projelerle eğitimler veriyor ve mentorluk yapıyorum.
+### Current Role
+* **Software & Data Science Instructor** | *techcareer.net* (Jul 2025 - Present)
+    * I provide training and mentorship with hands-on projects in Backend, SQL, and Data Science.
 
-### Geçmiş Deneyim
-* **Backend Developer Intern** | *Turkcell* (Oca 2025 - Haz 2025)
-    * Sardis platformunda **Java**, **Spring Boot** ve **PostgreSQL** kullanarak RESTful API'ler geliştirdim ve 50'den fazla test otomasyon senaryosu yazdım/refactor ettim.
+### Past Experience
+* **Backend Developer Intern** | *Turkcell* (Jan 2025 - Jun 2025)
+    * Developed RESTful APIs on the Sardis platform using **Java**, **Spring Boot**, and **PostgreSQL**, and wrote/refactored over 50 test automation scenarios.
 
 ---
 
-## 📫 İletişim & Fırsatlar
-Yeni proje tekliflerine, iş fırsatlarına ve ilginç projelere katkı sağlamaya her zaman açığım.
+## 📫 Contact & Opportunities
+I am always open to new project proposals, job opportunities, and contributing to interesting projects.
 
-Benimle iletişime geçmekten çekinmeyin:
-* **E-posta:** [muratcanbarcin@gmail.com](mailto:muratcanbarcin@gmail.com)
+Feel free to contact me:
+* **Email:** [muratcanbarcin@gmail.com](mailto:muratcanbarcin@gmail.com)
 * **LinkedIn:** [linkedin.com/in/muratcanbarcin](https://linkedin.com/in/muratcanbarcin)
