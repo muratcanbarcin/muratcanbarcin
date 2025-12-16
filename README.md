@@ -57,7 +57,7 @@ I am currently actively working on three main projects:
 ## 📊 My Most Used Languages
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muratcanbarcin&theme=dark" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcanbarcin&layout=compact&theme=dark" />
 </p>
 
 ---
