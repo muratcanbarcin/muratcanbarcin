@@ -1,109 +1,115 @@
-<h1 align="center">Murat Can Barçin</h1>
-<p align="center">
-  4th Year Computer Engineering Student at Dokuz Eylül University.<br>
-  Focused on developing solutions in <strong>Backend Development (Java/Spring)</strong>, <strong>Data Management</strong>, and <strong>Data Science</strong>.<br>
-  I also share knowledge as a technical instructor in these fields.
+<div align="center">
+  <h1>Murat Can Barçin</h1>
+  <p><strong>Software Engineer | Backend Systems & Applied AI</strong></p>
+  <p>
+    <a href="https://linkedin.com/in/muratcanbarcin" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:muratcanbarcin@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
+
+---
+
+### About Me
+
+- Computer Engineering graduate with Honors from Dokuz Eylül University[cite: 2].
+- Focusing on backend systems, applied AI solutions, and IoT integrations[cite: 2].
+- Enterprise engineering experience at Sun Group and Turkcell; former technical instructor at techcareer.net[cite: 2].
+
+---
+
+### Tech Stack & Core Competencies
+
+**Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
-<p align="center">
-  <a href="https://linkedin.com/in/muratcanbarcin" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:muratcanbarcin@gmail.com">
-    <img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+
+**Backend & Web Frameworks**
+<p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/RESTful_API-005571?style=flat-square&logo=fastapi&logoColor=white" alt="RESTful APIs" />
+  <img src="https://img.shields.io/badge/Microservices-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Microservices" />
+</p>
+
+**Applied AI, Edge Computing & Hardware**
+<p>
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google Gemini" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Raspberry_Pi_5-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi 5" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=scikit-learn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Data_Fusion-0052CC?style=flat-square&logo=databricks&logoColor=white" alt="Data Fusion" />
+</p>
+
+**Databases, DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Hibernate_JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" alt="Hibernate" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
 ---
 
-## 🔭 What I'm Currently Focusing On
-I am currently actively working on three main projects:
-* **Defense Industry C4ISR Project**: I am involved in a project on command, control, communications, and computer systems.
-* **Enterprise AI Agent for SSO**: Working on the development of an artificial intelligence agent for corporate SSO (Single Sign-On) integrations.
-* **Smart Sleep Sense**: An IoT, Cloud, and AI project focused on tracking sleep quality and patterns.
+### Featured Systems & Engineering Highlights
+
+#### AI-Supported Lightweight C4ISR Prototype
+*Senior Capstone Project | TEKNOFEST Finalist*[cite: 2]  
+`Status: Private Repository / Competition Prototype`
+
+- **Architecture:** Polyglot microservices system combining Java and Python for low-latency tactical stream processing[cite: 2].
+- **Edge AI & Hardware:** Implemented multi-source data fusion algorithms on Raspberry Pi 5 interfaced with AI cameras for real-time situational awareness and threat detection[cite: 2].
+- **Tactical UI:** Engineered an integrated decision support interface visualizing fused telemetry and sensor data directly on tactical maps[cite: 2].
+- **Key Stack:** Java, Python, Raspberry Pi 5, OpenCV, Edge Computing, Data Fusion, Jira[cite: 2].
+
+#### Enterprise Agent for SSO - Risk-Based Access Control System
+`Status: Public Repository` &bull; [View Repository](https://github.com/muratcanbarcin/EnterpriseAgentForSSO)
+
+- **Adaptive Authentication:** Risk-Based Access Control (RBAC) engine developed with Spring Boot and React to automate secure SSO decisions[cite: 2].
+- **Anomaly Detection:** Asynchronous FastAPI microservice leveraging Isolation Forest to detect anomalous logins and compute dynamic risk scores[cite: 2].
+- **Security Automation:** Orchestrated automated escalation workflows via containerized n8n workflows and Dockerized services[cite: 2].
+- **Key Stack:** Java (Spring Boot), Python (FastAPI), Isolation Forest, MySQL, Docker, n8n[cite: 2].
+
+#### SleepFlow.AI - IoT & AI Integrated Sleep Analysis Platform
+`Status: Active Research Asset (Public release upon study completion)`
+
+- **Data Pipeline:** FastAPI ingestion pipeline synchronizing Apple HealthKit biometric metrics with real-time OpenCV sleep posture tracking logs via custom matching algorithms[cite: 2].
+- **LLM Integration:** Leveraged Google Gemini API to analyze fused physiological and visual data, generating personalized behavioral sleep insights[cite: 2].
+- **Dashboard:** Interactive React.js interface for monitoring posture tracking telemetry and actionable sleep metrics[cite: 2].
+- **Key Stack:** Python (FastAPI), React.js, Google Gemini, OpenCV, Swift, IoT, Edge Computing, MySQL[cite: 2].
+
+#### Financial Document Extraction Microservice
+*Sun Group*[cite: 2]  
+`Status: Proprietary Enterprise Solution (Private)`
+
+- **Core Microservice:** FastAPI/Python service extracting structured financial line-items from receipts and invoices with sub-10s latency[cite: 2].
+- **Scale & Integration:** Engineered for 1M+ monthly document capacity; integrated multi-level approval workflows with Spring Boot and corporate SAP infrastructure[cite: 2].
+- **Key Stack:** Python, FastAPI, Java, Spring Boot, SAP Integration, RESTful APIs[cite: 2].
+
+#### KARMA - Sustainable Accommodation Platform
+*Incubated at T3 Startup Center*[cite: 2]  
+`Status: Public Repository` &bull; [View Repository](https://github.com/muratcanbarcin/Karma-Web-App)
+
+- **System Design:** Scalable accommodation booking architecture featuring secure messaging, booking modules, and a token-based reward ledger[cite: 2].
+- **Key Stack:** Node.js, Express.js, React.js, MySQL, RESTful APIs[cite: 2].
 
 ---
 
-## 🛠️ My Tech Stack
+### Research & Publications
 
-<p align="left">
-  <strong>Backend & Languages:</strong><br>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-</p>
-
-<p align="left">
-  <strong>Frontend:</strong><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-</p>
-
-<p align="left">
-  <strong>Database & Other:</strong><br>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" alt="REST API"/>
-  <img src="https://img.shields.io/badge/Agile-0096D6?style=for-the-badge" alt="Agile"/>
-</p>
-
----
-
-## 📊 My Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muratcanbarcin&layout=compact&theme=dark" />
-</p>
-
----
-
-## 📂 Selected Projects
-
-### 1. Enterprise Test Automation Dashboard
-(Repo: **Private Project / Commercial Product** - Not public as it is for sale.)
-* A dashboard developed with **Java/Maven** and **React.js** to organize automated backend tests (API, DB).
-* Allows non-technical QA analysts to run and analyze tests without writing code.
-* **Technologies:** `Java`, `Maven`, `React.js`, `RESTful API`, `JDBC`, `UI/UX Design`
-
-### 2. Karma - Sustainable Accommodation Platform
-(Repo: `https://github.com/muratcanbarcin/Karma-Web-App`)
-* A platform where users can earn "Karma Tokens" and get free accommodation.
-* Developed secure messaging, reservation, and profile management features using **Node.js** and **React**.
-* **Technologies:** `Node.js`, `Express.js`, `React.js`, `MySQL`, `RESTful API`, `Scalable Architecture`
-
-### 3. Journey Planner for Paris Metro
-(Repo: `https://github.com/muratcanbarcin/Journey-Planner-for-Paris-Metro`)
-* A **Java**-based route optimization tool for the Paris Metro.
-* Used **Dijkstra's** and **BFS** algorithms to find the shortest path.
-* **Technologies:** `Java`, `Dijkstra's Algorithm`, `BFS`, `Directed Graphs`, `Priority Queue`
-
-### 4. Supermarket Management System
-(Repo: `https://github.com/muratcanbarcin/Supermarket-Management-System`)
-* A system developed with **Java** that manages customer and purchase data using **Hash Tables**.
-* **Technologies:** `Java`, `Data Structures (Hash Tables)`, `File Handling`
-
----
-
-## 💼 Professional Experience
-
-### Current Role
-* **Software & Data Science Instructor** | *techcareer.net* (Jul 2025 - Present)
-    * I provide training and mentorship with hands-on projects in Backend, SQL, and Data Science.
-
-### Past Experience
-* **Backend Developer Intern** | *Turkcell* (Jan 2025 - Jun 2025)
-    * Developed RESTful APIs on the Sardis platform using **Java**, **Spring Boot**, and **PostgreSQL**, and wrote/refactored over 50 test automation scenarios.
-
----
-
-## 📫 Contact & Opportunities
-I am always open to new project proposals, job opportunities, and contributing to interesting projects.
-
-Feel free to contact me:
-* **Email:** [muratcanbarcin@gmail.com](mailto:muratcanbarcin@gmail.com)
-* **LinkedIn:** [linkedin.com/in/muratcanbarcin](https://linkedin.com/in/muratcanbarcin)
+**A Dual-Layer Financial Anomaly Detection and Automated Forensic Reporting Framework for Metaverse Economies**[cite: 2]  
+*M. C. Barcin, F. Dalkılıç — Journal of Metaverse (Under Review, 2026)*[cite: 2]  
+- Architecture combining ensemble learning (XGBoost, Isolation Forest, SMOTE, SHAP) with fine-tuned local GenAI (Llama 3.1 8B via QLoRA) for financial transaction monitoring[cite: 2].
