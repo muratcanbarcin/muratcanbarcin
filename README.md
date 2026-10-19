@@ -15,9 +15,9 @@
 
 ### About Me
 
-- Computer Engineering graduate with Honors from Dokuz Eylül University[cite: 2].
-- Focusing on backend systems, applied AI solutions, and IoT integrations[cite: 2].
-- Enterprise engineering experience at Sun Group and Turkcell; former technical instructor at techcareer.net[cite: 2].
+- Computer Engineering graduate with Honors from Dokuz Eylül University.
+- Focusing on backend systems, applied AI solutions, and IoT integrations.
+- Enterprise engineering experience at Sun Group and Turkcell; former technical instructor at techcareer.net.
 
 ---
 
@@ -67,49 +67,49 @@
 ### Featured Systems & Engineering Highlights
 
 #### AI-Supported Lightweight C4ISR Prototype
-*Senior Capstone Project | TEKNOFEST Finalist*[cite: 2]  
+*Senior Capstone Project | TEKNOFEST Finalist*  
 `Status: Private Repository / Competition Prototype`
 
-- **Architecture:** Polyglot microservices system combining Java and Python for low-latency tactical stream processing[cite: 2].
-- **Edge AI & Hardware:** Implemented multi-source data fusion algorithms on Raspberry Pi 5 interfaced with AI cameras for real-time situational awareness and threat detection[cite: 2].
-- **Tactical UI:** Engineered an integrated decision support interface visualizing fused telemetry and sensor data directly on tactical maps[cite: 2].
-- **Key Stack:** Java, Python, Raspberry Pi 5, OpenCV, Edge Computing, Data Fusion, Jira[cite: 2].
+- **Architecture:** Polyglot microservices system combining Java and Python for low-latency tactical stream processing.
+- **Edge AI & Hardware:** Implemented multi-source data fusion algorithms on Raspberry Pi 5 interfaced with AI cameras for real-time situational awareness and threat detection.
+- **Tactical UI:** Engineered an integrated decision support interface visualizing fused telemetry and sensor data directly on tactical maps.
+- **Key Stack:** Java, Python, Raspberry Pi 5, OpenCV, Edge Computing, Data Fusion, Jira.
 
 #### Enterprise Agent for SSO - Risk-Based Access Control System
 `Status: Public Repository` &bull; [View Repository](https://github.com/muratcanbarcin/EnterpriseAgentForSSO)
 
-- **Adaptive Authentication:** Risk-Based Access Control (RBAC) engine developed with Spring Boot and React to automate secure SSO decisions[cite: 2].
-- **Anomaly Detection:** Asynchronous FastAPI microservice leveraging Isolation Forest to detect anomalous logins and compute dynamic risk scores[cite: 2].
-- **Security Automation:** Orchestrated automated escalation workflows via containerized n8n workflows and Dockerized services[cite: 2].
-- **Key Stack:** Java (Spring Boot), Python (FastAPI), Isolation Forest, MySQL, Docker, n8n[cite: 2].
+- **Adaptive Authentication:** Risk-Based Access Control (RBAC) engine developed with Spring Boot and React to automate secure SSO decisions.
+- **Anomaly Detection:** Asynchronous FastAPI microservice leveraging Isolation Forest to detect anomalous logins and compute dynamic risk scores.
+- **Security Automation:** Orchestrated automated escalation workflows via containerized n8n workflows and Dockerized services.
+- **Key Stack:** Java (Spring Boot), Python (FastAPI), Isolation Forest, MySQL, Docker, n8n.
 
 #### SleepFlow.AI - IoT & AI Integrated Sleep Analysis Platform
 `Status: Active Research Asset (Public release upon study completion)`
 
-- **Data Pipeline:** FastAPI ingestion pipeline synchronizing Apple HealthKit biometric metrics with real-time OpenCV sleep posture tracking logs via custom matching algorithms[cite: 2].
-- **LLM Integration:** Leveraged Google Gemini API to analyze fused physiological and visual data, generating personalized behavioral sleep insights[cite: 2].
-- **Dashboard:** Interactive React.js interface for monitoring posture tracking telemetry and actionable sleep metrics[cite: 2].
-- **Key Stack:** Python (FastAPI), React.js, Google Gemini, OpenCV, Swift, IoT, Edge Computing, MySQL[cite: 2].
+- **Data Pipeline:** FastAPI ingestion pipeline synchronizing Apple HealthKit biometric metrics with real-time OpenCV sleep posture tracking logs via custom matching algorithms.
+- **LLM Integration:** Leveraged Google Gemini API to analyze fused physiological and visual data, generating personalized behavioral sleep insights.
+- **Dashboard:** Interactive React.js interface for monitoring posture tracking telemetry and actionable sleep metrics.
+- **Key Stack:** Python (FastAPI), React.js, Google Gemini, OpenCV, Swift, IoT, Edge Computing, MySQL.
 
 #### Financial Document Extraction Microservice
-*Sun Group*[cite: 2]  
+*Sun Group*  
 `Status: Proprietary Enterprise Solution (Private)`
 
-- **Core Microservice:** FastAPI/Python service extracting structured financial line-items from receipts and invoices with sub-10s latency[cite: 2].
-- **Scale & Integration:** Engineered for 1M+ monthly document capacity; integrated multi-level approval workflows with Spring Boot and corporate SAP infrastructure[cite: 2].
-- **Key Stack:** Python, FastAPI, Java, Spring Boot, SAP Integration, RESTful APIs[cite: 2].
+- **Core Microservice:** FastAPI/Python service extracting structured financial line-items from receipts and invoices with sub-10s latency.
+- **Scale & Integration:** Engineered for 1M+ monthly document capacity; integrated multi-level approval workflows with Spring Boot and corporate SAP infrastructure.
+- **Key Stack:** Python, FastAPI, Java, Spring Boot, SAP Integration, RESTful APIs.
 
 #### KARMA - Sustainable Accommodation Platform
-*Incubated at T3 Startup Center*[cite: 2]  
+*Incubated at T3 Startup Center*  
 `Status: Public Repository` &bull; [View Repository](https://github.com/muratcanbarcin/Karma-Web-App)
 
-- **System Design:** Scalable accommodation booking architecture featuring secure messaging, booking modules, and a token-based reward ledger[cite: 2].
-- **Key Stack:** Node.js, Express.js, React.js, MySQL, RESTful APIs[cite: 2].
+- **System Design:** Scalable accommodation booking architecture featuring secure messaging, booking modules, and a token-based reward ledger.
+- **Key Stack:** Node.js, Express.js, React.js, MySQL, RESTful APIs.
 
 ---
 
 ### Research & Publications
 
-**A Dual-Layer Financial Anomaly Detection and Automated Forensic Reporting Framework for Metaverse Economies**[cite: 2]  
-*M. C. Barcin, F. Dalkılıç — Journal of Metaverse (Under Review, 2026)*[cite: 2]  
-- Architecture combining ensemble learning (XGBoost, Isolation Forest, SMOTE, SHAP) with fine-tuned local GenAI (Llama 3.1 8B via QLoRA) for financial transaction monitoring[cite: 2].
+**A Dual-Layer Financial Anomaly Detection and Automated Forensic Reporting Framework for Metaverse Economies**  
+*M. C. Barcin, F. Dalkılıç — Journal of Metaverse (Under Review, 2026)*  
+- Architecture combining ensemble learning (XGBoost, Isolation Forest, SMOTE, SHAP) with fine-tuned local GenAI (Llama 3.1 8B via QLoRA) for financial transaction monitoring.
